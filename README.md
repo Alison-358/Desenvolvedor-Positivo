@@ -1,66 +1,82 @@
-# Projeto Procurando Apartamento
+Alison Nascimento
+Desenvolvedor de Sistemas Back-End
+Hortolândia, São Paulo, Brasil
 
-Você provê um serviço por web de busca de apartamentos para locatários. Neste serviço, neste lugar específico da cidade mostrado no mapa abaixo, estão disponíveis diversos apartamentos em cada uma das quadras. As quadras, além de conter os apartamentos, mostram onde a rua começa e onde termina já que a quadra 1 é o início da rua e quadra (n) é mais próximo a seu final. O mapa não determina, porém, o sentido de pedestres e carros já que é mão dupla. É disponibilizada para esse serviço uma tabela da relação de serviços disponíveis em cada uma das quadras: academia, escola e mercado. Os locatários são pessoas muito ocupadas e trabalham remotamente. Assim, é muito importante que eles morem em um lugar com menor deslocamento possível. O serviço deve, com base na indicação do locatário em necessidades de serviços, buscar um apartamento dentro da quadra que proporcione menor deslocamento para seu dia a dia. 
+Experiência
 
-![image](https://user-images.githubusercontent.com/112395489/187196886-8818cda2-395c-4968-8831-645211fb303b.png)
+IATec - Instituto Adventista de Tecnologia
+Desenvolvedor de sistemas
+maio de 2022 - Present (7 meses)
+Desenvolvimento de sistemas com C#, .Net Core, Sql Server, EntityFramework, XUnit, RabbitMQ, Angular, Javascript, DDD, SOLID, CQRS,Arquitetura Onion, Docker, Git.
 
-A tabela mostra a relação de “ApartamentosDisponiveis” e os estabelecimentos existentes na quadra. Você deve usá-la para tomar a decisão sobre a melhor escolha de imóvel para seu cliente.
+Act digital
+Desenvolvedor Back-End Pleno
+dezembro de 2021 - maio de 2022 (6 meses)
+Alocado no banco BS2 como back-end, fazendo a transição de um sistemamonolítico para microsserviços. Tecnologias utilizadas C#, Asp.Net Core, WebAPI, DDD, SOLID, CQRS, Sql Server, Postgresql, Entity Framework, Docker,Lens, Redis, Rabbitmq, XUnit, Arquitetura Hexagonal.
 
-![image](https://user-images.githubusercontent.com/112395489/187196932-38fe6a55-7e7e-4a26-a463-3a3e015335dc.png)
+Ativy
+Analista Desenvolvedor
+fevereiro de 2021 - dezembro de 2021 (11 meses)
+Campinas, São Paulo, Brasil
+Desenvolvimento e manutenção de sistemas, atuando como back-end.Tecnologias utilizadas, C#, Asp.Net Core, Node, Web API, Sql Server,Dapper, XUnit, MongoDB, Amazon S3.
 
-A escolha do apartamento vai depender de:
-1.	Ter um apartamento disponível na quadra;
-2.	Andar o mínimo possível para encontrar um estabelecimento de seu interesse;
-3.	A Prioridade de estabelecimentos depende da ordem de entrada de dados. Então se a entrada de dados for ACADEMIA e ESCOLA por exemplo, deve-se priorizar apartamentos mais próximos de ACADEMIAS e depois de ESCOLAS;
-4.	O critério de desempate em caso de mais de uma quadra atender aos requisitos é escolher a quadra mais próxima ao final da rua.  
+IATec - Instituto Adventista de Tecnologia
+3 anos 6 meses
+Desenvolvedor de software pleno
+outubro de 2020 - janeiro de 2021 (4 meses)
+Hortolândia, São Paulo, Brasil
+Desenvolvimento e manutenção de sistemas com as tecnologias C#, Asp.NetCore, Web API, Angular, DDD, TDD.
+Desenvolvedor de software
+agosto de 2017 - outubro de 2020 (3 anos 3 meses)
+Hortolândia - SP
+Desenvolvimento de sistema de geração de arquivo para entrega de módulosdo Sped, ECD, ECF, EFD. Sistema desenvolvido com base em documentaçãode UML, diagrama de classes e protótipos. Banco dados utilizado, Sql Server2017, ambiente de desenvolvimento, Visual Studio 2017. Linguagem deprogramção c#, framework Asp.Net.
 
-## Exemplos:
+TeraHosting
+Programador Delphi
+março de 2017 - junho de 2017 (4 meses)
+Itápolis e Região, Brasil
+Adv Informática
+Programador de computadores
+abril de 2016 - setembro de 2016 (6 meses)
+Itápolis e Região, Brasil
+Desenvolvimento de softwares por meio da linguagem Delphi e usando a basede dados SQL Server 2012.
 
-Considerando os testes abaixo, os resultados seriam os seguintes: 
+Agência Masters
+Programador estagiário
+setembro de 2014 - junho de 2015 (10 meses)
+Taquaritinga e Região, Brasil
+Estágio obrigatório do curso de Sistemas para Internet. Desempenhando odesenvolvimento de sistemas web, com as linguagens de programação PHP,
+Page 2 of 3
+Javascript, também foram usados nos desenvolvimentos HTML 5 e CSS 3.Além de utilizar plugins de compartilhamento com redes sociais.
 
-- ['ACADEMIA', 'MERCADO'] 
-    - O resultado deve ser QUADRA 1, pois na quadra 1 tem apartamento disponível e os dois estabelecimentos de seu interesse;
+Xavante Alimentos
+Operador de maquinário
+junho de 2007 - maio de 2013 (6 anos)
+Itápolis e Região, Brasil
+Trabalhava com fabricação de massa de tomate.
 
-- ['ACADEMIA'] 
-    - O resultado deve ser QUADRA 2, pois na quadra 2 tem apartamento disponível, tem academia e está mais próximo do final da rua;
+Formação acadêmica
 
-## O que entregar:
-1.	Algoritmo de resolução (Novo método no Controller Apartamento) Exemplo a seguir:
-![image](https://user-images.githubusercontent.com/90634328/187257056-3d55d9e0-11c2-416e-9c07-2eba82665fcf.png)
+Fatec Taquaritinga
+Graduação, Sistemas para Internet · (2013 - 2015)
 
-    - A entrada de dados será um Array de String, e o return do Método será uma String. Ex: "Quadra 5";
-    - Qual seria o resultado caso as entradas sejam:
-        - ['ESCOLA', 'ACADEMIA'];
-        - ['ESCOLA', 'MERCADO', 'ACADEMIA'];
-    
-2.	Criar testes unitários baseado nos exemplos passados;
-![image](https://user-images.githubusercontent.com/90634328/187255894-6ff4700d-0e97-4435-af29-a615925c6d20.png)
+Centro Universitário Adventista de São Paulo
+Pós Graduação - Engenharia de Software, Tecnologia daInformação · (2018 - 2019)
 
+Centro Universitário de Araraquara
+Pós Graduação, Tecnologia da Informação · (2017 - 2018)
 
-## Instruções Gerais
-- Você deverá fazer:
- - Fork desse projeto em um repositório Privado, no Seu perfil, com o Titulo "Desenvolvedor-Positivo";
-    - ![image](https://user-images.githubusercontent.com/90634328/187271331-e6582814-f28b-47d8-a940-f39d76a1f62d.png)
-    -![image](https://user-images.githubusercontent.com/90634328/187272263-00e338ce-eb0c-474f-ab72-6c730060df56.png)
+Open English
+Ensino de Inglês como Segundo Idioma · (março de 2021 - março de 2022)
 
-- Resolvê-lo e subir ao seu repositório Privado
-- Os acessos devem ser dados para os usuários 'jacirpositivo' e 'ctomasini' apenas;
-- O README.md deverá ser o seu curriculo, com a adequada formatação.
+Open Access
+Ensino de Inglês como Segundo Idioma · (2019 - 2020)
 
-## Requisitos de software para executar o projeto
-- net6.0 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
-- Visual Studio 2022 (https://visualstudio.microsoft.com/pt-br/vs/) ou Visual Studio Code (https://code.visualstudio.com/)
+Certificações
 
-## Comandos
-```{.cs}
-dotnet restore ProcurandoApartamento.sln
-```
-```{.cs}
-dotnet build ProcurandoApartamento.sln
-```
-```{.cs}
-dotnet watch run --project src\ProcurandoApartamento\ProcurandoApartamento.csproj
-```
-```{.cs}
-dotnet test test\ProcurandoApartamento.Test\ProcurandoApartamento.Test.csproj
-```
+TDD com XUnit C# Asp.Net Core 3.0
+Fluência Duolingo em Inglês:Intermediário (estimativa)
+Asp.Net Core 2.0
+Web Design HTML5, CSS3, JS
+RESTFul API's do 0 à Nuvem ComASP.NET Core 2.0 e Docker
+
