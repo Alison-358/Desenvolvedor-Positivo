@@ -1,6 +1,4 @@
-Alison Nascimento
-Desenvolvedor de Sistemas Back-End
-Hortolândia, São Paulo, Brasil
+# Alison Nascimento Hortolândia, São Paulo, Brasil
 
 ## Experiência
 
@@ -80,8 +78,11 @@ Ensino de Inglês como Segundo Idioma · (2019 - 2020)
 ## Certificações
 
 TDD com XUnit C# Asp.Net Core 3.0
+
 Fluência Duolingo em Inglês:Intermediário (estimativa)
+
 Asp.Net Core 2.0
+
 Web Design HTML5, CSS3, JS
 RESTFul API's do 0 à Nuvem ComASP.NET Core 2.0 e Docker
 
