@@ -5,14 +5,12 @@ Hortolândia, São Paulo, Brasil
 Experiência
 
 IATec - Instituto Adventista de Tecnologia
-
 Desenvolvedor de sistemas
 
 maio de 2022 - Present (7 meses)
 Desenvolvimento de sistemas com C#, .Net Core, Sql Server, EntityFramework, XUnit, RabbitMQ, Angular, Javascript, DDD, SOLID, CQRS,Arquitetura Onion, Docker, Git.
 
 Act digital
-
 Desenvolvedor Back-End Pleno
 
 dezembro de 2021 - maio de 2022 (6 meses)
@@ -20,23 +18,27 @@ Alocado no banco BS2 como back-end, fazendo a transição de um sistemamonolíti
 
 Ativy
 Analista Desenvolvedor
+
 fevereiro de 2021 - dezembro de 2021 (11 meses)
 Campinas, São Paulo, Brasil
 Desenvolvimento e manutenção de sistemas, atuando como back-end.Tecnologias utilizadas, C#, Asp.Net Core, Node, Web API, Sql Server,Dapper, XUnit, MongoDB, Amazon S3.
 
 IATec - Instituto Adventista de Tecnologia
+
 3 anos 6 meses
 Desenvolvedor de software pleno
 outubro de 2020 - janeiro de 2021 (4 meses)
 Hortolândia, São Paulo, Brasil
 Desenvolvimento e manutenção de sistemas com as tecnologias C#, Asp.NetCore, Web API, Angular, DDD, TDD.
-Desenvolvedor de software
+Desenvolvedor de software.
+
 agosto de 2017 - outubro de 2020 (3 anos 3 meses)
 Hortolândia - SP
 Desenvolvimento de sistema de geração de arquivo para entrega de módulosdo Sped, ECD, ECF, EFD. Sistema desenvolvido com base em documentaçãode UML, diagrama de classes e protótipos. Banco dados utilizado, Sql Server2017, ambiente de desenvolvimento, Visual Studio 2017. Linguagem deprogramção c#, framework Asp.Net.
 
 TeraHosting
 Programador Delphi
+
 março de 2017 - junho de 2017 (4 meses)
 Itápolis e Região, Brasil
 Adv Informática
@@ -47,6 +49,7 @@ Desenvolvimento de softwares por meio da linguagem Delphi e usando a basede dado
 
 Agência Masters
 Programador estagiário
+
 setembro de 2014 - junho de 2015 (10 meses)
 Taquaritinga e Região, Brasil
 Estágio obrigatório do curso de Sistemas para Internet. Desempenhando odesenvolvimento de sistemas web, com as linguagens de programação PHP,
@@ -55,6 +58,7 @@ Javascript, também foram usados nos desenvolvimentos HTML 5 e CSS 3.Além de ut
 
 Xavante Alimentos
 Operador de maquinário
+
 junho de 2007 - maio de 2013 (6 anos)
 Itápolis e Região, Brasil
 Trabalhava com fabricação de massa de tomate.
