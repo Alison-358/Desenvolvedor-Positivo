@@ -62,6 +62,14 @@ namespace ProcurandoApartamento.Controllers
             return ActionResultUtil.WrapOrNotFound(result);
         }
 
+        [HttpGet("melhor-apartamento")]
+        public async Task<ActionResult<string>> FindBetterApartment([FromQuery] string[] parameters)
+        {
+            _log.LogDebug("REST request to get a page of Apartamentos");
+            var result = await _apartamentoService.FindBetterApartment(parameters);
+            return ActionResultUtil.WrapOrNotFound(result);
+        }
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteApartamento([FromRoute] long id)
         {

@@ -136,6 +136,45 @@ namespace ProcurandoApartamento.Test.Controllers
         }
 
         [Fact]
+        public async Task FindBetterApartment()
+        {
+            var param = "parameters=MERCADO";
+
+            var response = await
+                _client.GetAsync($"/api/apartamentos/melhor-apartamento?{param}");
+            response.StatusCode.Should().Be(HttpStatusCode.OK);
+
+            var result = await response.Content.ReadAsStringAsync();
+            Assert.Equal("QUADRA 5", result);
+        }
+
+        [Fact]
+        public async Task FindBetterApartment_With_Two_Filters()
+        {
+            var param = "parameters=ESCOLA&parameters=ACADEMIA";
+
+            var response = await
+                _client.GetAsync($"/api/apartamentos/melhor-apartamento?{param}");
+            response.StatusCode.Should().Be(HttpStatusCode.OK);
+
+            var result = await response.Content.ReadAsStringAsync();
+            Assert.Equal("QUADRA 4 QUADRA 2", result);
+        }
+
+        [Fact]
+        public async Task FindBetterApartment_With_Three_Filters()
+        {
+            var param = "parameters=ESCOLA&parameters=MERCADO&parameters=ACADEMIA";
+
+            var response = await
+                _client.GetAsync($"/api/apartamentos/melhor-apartamento?{param}");
+            response.StatusCode.Should().Be(HttpStatusCode.OK);
+
+            var result = await response.Content.ReadAsStringAsync();
+            Assert.Equal("QUADRA 4 QUADRA 5 QUADRA 2", result);
+        }
+
+        [Fact]
         public async Task GetNonExistingApartamento()
         {
             var maxValue = long.MaxValue;
