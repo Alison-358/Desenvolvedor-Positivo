@@ -27,6 +27,7 @@ IATec - Instituto Adventista de Tecnologia
 
 3 anos 6 meses
 Desenvolvedor de software pleno
+
 outubro de 2020 - janeiro de 2021 (4 meses)
 Hortolândia, São Paulo, Brasil
 Desenvolvimento e manutenção de sistemas com as tecnologias C#, Asp.NetCore, Web API, Angular, DDD, TDD.
@@ -34,9 +35,10 @@ Desenvolvedor de software.
 
 agosto de 2017 - outubro de 2020 (3 anos 3 meses)
 Hortolândia - SP
+
 Desenvolvimento de sistema de geração de arquivo para entrega de módulosdo Sped, ECD, ECF, EFD. Sistema desenvolvido com base em documentaçãode UML, diagrama de classes e protótipos. Banco dados utilizado, Sql Server2017, ambiente de desenvolvimento, Visual Studio 2017. Linguagem deprogramção c#, framework Asp.Net.
 
-TeraHosting
+TeraHosting -
 Programador Delphi
 
 março de 2017 - junho de 2017 (4 meses)
@@ -47,7 +49,7 @@ abril de 2016 - setembro de 2016 (6 meses)
 Itápolis e Região, Brasil
 Desenvolvimento de softwares por meio da linguagem Delphi e usando a basede dados SQL Server 2012.
 
-Agência Masters
+Agência Masters -
 Programador estagiário
 
 setembro de 2014 - junho de 2015 (10 meses)
@@ -56,7 +58,7 @@ Estágio obrigatório do curso de Sistemas para Internet. Desempenhando odesenvo
 Page 2 of 3
 Javascript, também foram usados nos desenvolvimentos HTML 5 e CSS 3.Além de utilizar plugins de compartilhamento com redes sociais.
 
-Xavante Alimentos
+Xavante Alimentos -
 Operador de maquinário
 
 junho de 2007 - maio de 2013 (6 anos)
