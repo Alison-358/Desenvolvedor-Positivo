@@ -5,12 +5,16 @@ Hortolândia, São Paulo, Brasil
 Experiência
 
 IATec - Instituto Adventista de Tecnologia
+
 Desenvolvedor de sistemas
+
 maio de 2022 - Present (7 meses)
 Desenvolvimento de sistemas com C#, .Net Core, Sql Server, EntityFramework, XUnit, RabbitMQ, Angular, Javascript, DDD, SOLID, CQRS,Arquitetura Onion, Docker, Git.
 
 Act digital
+
 Desenvolvedor Back-End Pleno
+
 dezembro de 2021 - maio de 2022 (6 meses)
 Alocado no banco BS2 como back-end, fazendo a transição de um sistemamonolítico para microsserviços. Tecnologias utilizadas C#, Asp.Net Core, WebAPI, DDD, SOLID, CQRS, Sql Server, Postgresql, Entity Framework, Docker,Lens, Redis, Rabbitmq, XUnit, Arquitetura Hexagonal.
 
