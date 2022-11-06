@@ -14,30 +14,29 @@ Desenvolvimento de sistemas com C#, .Net Core, Sql Server, EntityFramework, XUni
 dezembro de 2021 - maio de 2022 (6 meses)
 Alocado no banco BS2 como back-end, fazendo a transição de um sistemamonolítico para microsserviços. Tecnologias utilizadas C#, Asp.Net Core, WebAPI, DDD, SOLID, CQRS, Sql Server, Postgresql, Entity Framework, Docker,Lens, Redis, Rabbitmq, XUnit, Arquitetura Hexagonal.
 
-Ativy -
-Analista Desenvolvedor
+###### Ativy - Analista Desenvolvedor
 
 fevereiro de 2021 - dezembro de 2021 (11 meses)
 Campinas, São Paulo, Brasil
 Desenvolvimento e manutenção de sistemas, atuando como back-end.Tecnologias utilizadas, C#, Asp.Net Core, Node, Web API, Sql Server,Dapper, XUnit, MongoDB, Amazon S3.
 
-IATec - Instituto Adventista de Tecnologia
+###### IATec - Instituto Adventista de Tecnologia
 
 3 anos 6 meses
-Desenvolvedor de software pleno
+###### Desenvolvedor de software pleno
 
 outubro de 2020 - janeiro de 2021 (4 meses)
 Hortolândia, São Paulo, Brasil
 Desenvolvimento e manutenção de sistemas com as tecnologias C#, Asp.NetCore, Web API, Angular, DDD, TDD.
-Desenvolvedor de software.
+
+###### Desenvolvedor de software.
 
 agosto de 2017 - outubro de 2020 (3 anos 3 meses)
 Hortolândia - SP
 
 Desenvolvimento de sistema de geração de arquivo para entrega de módulosdo Sped, ECD, ECF, EFD. Sistema desenvolvido com base em documentaçãode UML, diagrama de classes e protótipos. Banco dados utilizado, Sql Server2017, ambiente de desenvolvimento, Visual Studio 2017. Linguagem deprogramção c#, framework Asp.Net.
 
-TeraHosting -
-Programador Delphi
+###### TeraHosting - Programador Delphi
 
 março de 2017 - junho de 2017 (4 meses)
 Itápolis e Região, Brasil
@@ -47,8 +46,7 @@ abril de 2016 - setembro de 2016 (6 meses)
 Itápolis e Região, Brasil
 Desenvolvimento de softwares por meio da linguagem Delphi e usando a basede dados SQL Server 2012.
 
-Agência Masters -
-Programador estagiário
+###### Agência Masters - Programador estagiário
 
 setembro de 2014 - junho de 2015 (10 meses)
 Taquaritinga e Região, Brasil
@@ -56,8 +54,7 @@ Estágio obrigatório do curso de Sistemas para Internet. Desempenhando odesenvo
 Page 2 of 3
 Javascript, também foram usados nos desenvolvimentos HTML 5 e CSS 3.Além de utilizar plugins de compartilhamento com redes sociais.
 
-Xavante Alimentos -
-Operador de maquinário
+###### Xavante Alimentos - Operador de maquinário
 
 junho de 2007 - maio de 2013 (6 anos)
 Itápolis e Região, Brasil
