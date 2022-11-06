@@ -4,8 +4,8 @@ Hortolândia, São Paulo, Brasil
 
 Experiência
 
-######IATec - Instituto Adventista de Tecnologia
-Desenvolvedor de sistemas
+###### IATec - Instituto Adventista de Tecnologia
+###### Desenvolvedor de sistemas
 
 maio de 2022 - Present (7 meses)
 Desenvolvimento de sistemas com C#, .Net Core, Sql Server, EntityFramework, XUnit, RabbitMQ, Angular, Javascript, DDD, SOLID, CQRS,Arquitetura Onion, Docker, Git.
