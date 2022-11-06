@@ -2,7 +2,7 @@ Alison Nascimento
 Desenvolvedor de Sistemas Back-End
 Hortolândia, São Paulo, Brasil
 
-Experiência
+## Experiência
 
 ###### IATec - Instituto Adventista de Tecnologia - Desenvolvedor de sistemas
 
@@ -60,7 +60,7 @@ junho de 2007 - maio de 2013 (6 anos)
 Itápolis e Região, Brasil
 Trabalhava com fabricação de massa de tomate.
 
-Formação acadêmica
+## Formação acadêmica
 
 Fatec Taquaritinga
 Graduação, Sistemas para Internet · (2013 - 2015)
@@ -77,7 +77,7 @@ Ensino de Inglês como Segundo Idioma · (março de 2021 - março de 2022)
 Open Access
 Ensino de Inglês como Segundo Idioma · (2019 - 2020)
 
-Certificações
+## Certificações
 
 TDD com XUnit C# Asp.Net Core 3.0
 Fluência Duolingo em Inglês:Intermediário (estimativa)
